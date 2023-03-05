@@ -43,3 +43,7 @@ But for the moment, it's not the most important thing, the most important thing 
 - [Full-Stack](./Installation/Full-Stack/)
 
 ### Types
+
+- [Back-End](./Types/Back-End/)
+- [Front-End](./Types/Front-End/)
+- [Full-Stack](./Types/Full-Stack/)
