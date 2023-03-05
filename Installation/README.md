@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Back-End](./Back-End/README.md)
-- [Front-End](./Front-End/README.md)
-- [Full-Stack](./Full-Stack/README.md)
-- [Root](../README.md)
+- [Back-End](./Back-End/)
+- [Front-End](./Front-End/)
+- [Full-Stack](./Full-Stack/)
+- [Root](../)
