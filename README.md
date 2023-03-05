@@ -4,7 +4,7 @@
 
 - [What is Typescript?](#what-is-typescript)
 - [Why Typescript?](#why-typescript)
-- [How to install Typescript?](#)
+- [How to install Typescript?](https://github.com/LunashaGit/Javascript-TO-Typescript-skills-Power-Rangers-Group/tree/main/Installation)
 
 ## What is Typescript?
 
