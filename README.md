@@ -4,6 +4,7 @@
 
 - [What is Typescript?](#what-is-typescript)
 - [Why Typescript?](#why-typescript)
+- [How to use Typescript?](#how-to-use-typescript)
 - [How to install Typescript?](https://github.com/LunashaGit/Javascript-TO-Typescript-skills-Power-Rangers-Group/tree/main/Installation)
 
 ## What is Typescript?
@@ -34,3 +35,11 @@ type ArrayValues<T> = T extends Array<infer R> ? R : never;
 But for the moment, it's not the most important thing, the most important thing is to understand the basics of Typescript. And how improve your code with Typescript!
 
 ## How to use Typescript?
+
+### Installation
+
+- [Back-End](./Installation/Back-End/)
+- [Front-End](./Installation/Front-End/)
+- [Full-Stack](./Installation/Full-Stack/)
+
+### Types

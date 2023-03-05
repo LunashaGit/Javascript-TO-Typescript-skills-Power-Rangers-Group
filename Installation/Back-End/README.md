@@ -4,9 +4,9 @@
 
 ### Github
 
-- [Front-End](./Front-End/)
-- [BACK-END](./BACK-END/)
-- [Root](https://github.com/LunashaGit/Javascript-TO-Typescript-skills-Power-Rangers-Group)
+- [Full-Stack](./../Full-Stack/)
+- [Front-End](./../Front-End/)
+- [Root](https://github.com/LunashaGit/Javascript-TO-Typescript-skills-Power-Rangers-Group/)
 
 ### Websites
 

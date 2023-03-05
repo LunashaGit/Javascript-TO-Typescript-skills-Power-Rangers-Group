@@ -2,8 +2,8 @@
 
 ## Links
 
-- [Back-End](./../Back-End/)
-- [FRONT-END](./../FRONT-END/)
+- [Full-Stack](./../Full-Stack/)
+- [Front-End](./../Front-End/)
 - [Root](https://github.com/LunashaGit/Javascript-TO-Typescript-skills-Power-Rangers-Group/)
 
 ### Websites
