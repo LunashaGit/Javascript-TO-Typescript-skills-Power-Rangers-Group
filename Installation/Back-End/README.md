@@ -5,10 +5,16 @@
 ### Github
 
 - [Front-End](./Front-End/)
-- [Full-Stack](./Full-Stack/)
+- [BACK-END](./BACK-END/)
 - [Root](https://github.com/LunashaGit/Javascript-TO-Typescript-skills-Power-Rangers-Group)
 
 ### Websites
+
+#### Librairies & Framework Installations in TypeScript (Back-End)
+
+- [EXPRESSJS Back-End Framework](#EXPRESS)
+
+- [EVERY NPM PACKAGE](#EVERY-NPM-PACKAGE)
 
 #### Visual Studio Code Extensions
 
@@ -19,3 +25,75 @@
 ## Disclaimer
 
 You're not obliged to use VSCode & the extensions! For example, me i don't use some extensions, but i use VSCode!
+
+## EXPRESS
+
+![EXPRESS](./Images-BACK-END/EXPRESS.png)
+
+### Installation
+
+```bash
+npm init -y
+# &&
+npm install express
+# &&
+npm install -D typescript @types/node @types/express
+# &&
+npx tsc --init
+# &&
+npm i -g tsx
+```
+
+### Configuration
+
+```bash
+touch tsconfig.json
+```
+
+```json
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES5",
+    "lib": ["dom", "dom.iterable"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
+```
+
+### LAUNCH THE SERVER
+
+```json
+{
+  "scripts": {
+    "backend": "tsx watch ./index.tsx"
+  }
+}
+```
+
+## EVERY NPM PACKAGE
+
+![EVERY NPM PACKAGE](./Images-BACK-END/npm.png)
+
+### Installation
+
+```bash
+# @types/NAME is the TypeScript definition file for the package NAME
+npm install --save-dev typescript @types/node
+```
