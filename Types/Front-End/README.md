@@ -1,17 +1,10 @@
-# Welcome in the NEW CHAPTER Full Stack Types !
+# Welcome in the NEW CHAPTER Front End Types !
 
 ## Links
 
 - [Back-End](./../Back-End/)
-- [Front-End](./../Front-End/)
+- [Full-Stack](./../Full-Stack/)
 - [Root](https://github.com/LunashaGit/Javascript-TO-Typescript-skills-Power-Rangers-Group)
-
-## Parts of the Full Stack
-
-- [Back-End](#Back-End)
-- [Front-End](#Front-End)
-
-## Back-End
 
 ## Front-End
 
