@@ -176,6 +176,12 @@ userSchema.statics.signup = async function (username, email, password, color) {
 };
 ```
 
+The interface IUser extends Document and defines the properties of a user, including username, email, password, and color.
+
+The interface IUserModel extends Model< IUser > and defines a static method signup that takes in username, email, password, and color, and returns a Promise of IUser.
+
+The userSchema variable creates a new Mongoose schema for a user, with properties such as username, email, password, and color.
+
 ### Types Controllers
 
 ```ts
@@ -200,6 +206,8 @@ const getAccount = async (req: Request, res: Response) => {
   }
 };
 ```
+
+The Request interface defines the expected properties and methods of an incoming HTTP request, such as the request method, URL, headers, and body. The Response interface defines the expected properties and methods of an outgoing HTTP response, such as the response status code, headers, and body.
 
 ### Types Middlewares
 
@@ -229,6 +237,8 @@ const auth = async (req: Request, res: Response, next: NextFunction) => {
   }
 };
 ```
+
+The NextFunction interface is a callback function that is used to pass control to the next middleware function in the request-response cycle.
 
 ### Types Routes
 
