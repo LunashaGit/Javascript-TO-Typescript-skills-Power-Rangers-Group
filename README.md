@@ -10,7 +10,7 @@
 
 ![Typescript](./Images/js-ts.jpg)
 
-Typescript is a superset of Javascript. It is a language that compiles to Javascript. It is a typed superset of Javascript that compiles to plain Javascript. It adds optional static typing to the language. It is a typed superset of Javascript that compiles to plain Javascript. It adds optional static typing to the language.
+Typescript is a superset of Javascript. It is a language that compiles to complete Javascript. It adds optional static typing to the language.
 
 ## Why Typescript?
 
